@@ -1,7 +1,7 @@
 {
   "name": "lab2-crud",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Выполнил:** Рудик Аджамян  \r **Группа:** ПИЖ-б-о-25-2(1)  \r **Уровень:** продвинутый  \r **Вариант:** 3  \r **Сущность:** товары (`products`)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
